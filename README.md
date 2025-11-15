@@ -15,6 +15,8 @@ It explores multiple ways to calculate the area of a triangle, helping reinforce
 
 This revision focuses on repetition for mastery while comparing different approaches for solving the same problem.
 
+---
+
 ## ⚙️ Setting Up the Environment
 
 Before running the code, ensure that both Rust and Cargo are installed on your system.
@@ -45,6 +47,8 @@ cd revision
 ```
 
 Replace the contents of src/main.rs with the following code.
+
+---
 
 ## 📜 Rust Code
 ```bash
@@ -120,6 +124,8 @@ The area of tri2: 3600.
 }
 This is the area of tri3: 14400.
 ```
+
+---
 
 ## 🔍 How It Works
 1️⃣ Direct Parameters
